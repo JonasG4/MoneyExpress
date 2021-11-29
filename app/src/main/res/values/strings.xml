@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">moneyexpress</string>
+
+    <string name="day">Buenos Dias</string>
+    <string name="afternoon">Buenas Tardes</string>
+    <string name="night">Buenas Noches</string>
+    <string name="input_contrasenia">Escriba su contraseña</string>
+    <string name="input_usuario">Escriba su usuario o telefono</string>
+</resources>
