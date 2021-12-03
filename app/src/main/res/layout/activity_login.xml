@@ -61,18 +61,18 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Usuario o número de teléfono"
+                    android:text="Correo electronico"
                     android:textColor="@color/titulos" />
 
                 <EditText
-                    android:id="@+id/txt_usuario"
+                    android:id="@+id/txt_correo"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="5dp"
                     android:background="@drawable/input_bordered"
                     android:drawableStart="@drawable/ic_user"
                     android:drawablePadding="15dp"
-                    android:hint="@string/input_usuario"
+                    android:hint="@string/input_correo"
                     android:inputType="text"
                     android:paddingStart="10dp"
                     android:paddingLeft="5dp"

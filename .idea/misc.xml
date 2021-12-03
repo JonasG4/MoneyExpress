@@ -3,10 +3,29 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/layout/activity_homepage.xml" value="0.1757852077001013" />
+        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/drawable-v24/cloud_sun.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/drawable-v24/et_style.xml" value="0.21875" />
+        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/drawable-v24/ic_check.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/drawable-v24/ic_user.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/drawable-v24/input_bordered.xml" value="0.21875" />
+        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/drawable-v24/layout_box.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/drawable-v24/pig.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/drawable-v24/sun.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/drawable/et_style_red.xml" value="0.21875" />
+        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/drawable/ic_address_card_solid.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/drawable/ic_check_circle_regular.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/drawable/ic_error.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/drawable/ic_exchange_alt_solid.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/drawable/ic_history_solid.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/drawable/ic_home2.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/drawable/ic_user_solid__1_.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/drawable/transfercircule.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/layout/activity_homepage.xml" value="0.25" />
+        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/layout/activity_login.xml" value="0.26856884057971014" />
         <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/layout/activity_main.xml" value="0.13903985507246377" />
-        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/layout/activity_signup1.xml" value="0.16894630192502533" />
-        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/layout/activity_signup2.xml" value="0.1" />
+        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/layout/activity_signup1.xml" value="0.33" />
+        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/layout/activity_signup2.xml" value="0.33" />
+        <entry key="..\:/Users/super/AndroidStudioProjects/moneyexpress/app/src/main/res/layout/spinner_items.xml" value="0.20260416666666667" />
       </map>
     </option>
   </component>
