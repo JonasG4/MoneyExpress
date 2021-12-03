@@ -5,5 +5,16 @@
     <string name="afternoon">Buenas Tardes</string>
     <string name="night">Buenas Noches</string>
     <string name="input_contrasenia">Escriba su contraseña</string>
-    <string name="input_usuario">Escriba su usuario o telefono</string>
+    <string name="input_correo">Escriba su correo electronico</string>
+
+
+
+    <!--Errores-->
+    <string name="invalid_email">Escriba un formato de correo válido.</string>
+    <string name="invalid_password">La contraseña debe tener un minino de 6 caracteres.</string>
+    <string name="invalid_confirm_password">Las contraseñas no coinciden.</string>
+    <string name="invalid_name">Este campo no puede quedar vacio.</string>
+    <string name="invalid_phone">Escribe un formato de telefono válido.</string>
+    <string name="invalid_doc">Este campo no puede quedar vacio.</string>
+
 </resources>

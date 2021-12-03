@@ -3,6 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
+    android:background="@color/fondoBlanco"
     android:layout_height="match_parent">
 
     <TextView
@@ -29,17 +30,19 @@
             android:id="@+id/textView2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Nombre de Usuario"
+            android:text="Correo Electronico"
             android:textColor="#232526"
             />
 
         <EditText
-            android:id="@+id/txt_usuario"
+            android:id="@+id/txt_email"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@drawable/input_bordered"
-            android:hint="Escriba nombre de Usuario..."
-            android:drawableEnd="@drawable/ic_check"
+            android:hint="Escriba nombre de correo electronico..."
+            android:textSize="14sp"
+            android:textColor="@color/titulos"
+            android:textColorHint="@color/input"
             android:paddingEnd="10dp"
             android:paddingTop="12dp"
             android:paddingBottom="12dp"
@@ -63,7 +66,9 @@
             android:layout_height="wrap_content"
             android:background="@drawable/input_bordered"
             android:hint="Escriba su contraseña..."
-            android:drawableEnd="@drawable/ic_check"
+            android:textSize="14sp"
+            android:textColor="@color/titulos"
+            android:textColorHint="@color/input"
             android:paddingEnd="10dp"
             android:paddingTop="12dp"
             android:paddingBottom="12dp"
@@ -87,7 +92,9 @@
             android:layout_height="wrap_content"
             android:background="@drawable/input_bordered"
             android:hint="Escriba su contraseña..."
-            android:drawableEnd="@drawable/ic_check"
+            android:textSize="14sp"
+            android:textColor="@color/titulos"
+            android:textColorHint="@color/input"
             android:paddingEnd="10dp"
             android:paddingTop="12dp"
             android:paddingBottom="12dp"
@@ -95,6 +102,7 @@
             android:layout_marginTop="5dp"
             android:inputType="textPassword"
             />
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -105,6 +113,7 @@
                 android:layout_height="wrap_content"
                 android:text="Acepto los"
                 android:textColor="@color/subtitulos"
+                android:checked="true"
                 />
             <TextView
                 android:layout_width="wrap_content"
@@ -127,8 +136,8 @@
                 android:layout_height="wrap_content"
                 android:text="condiciones de uso"
                 android:textColor="@color/botones"
-                android:paddingStart="5dp"
-                android:paddingEnd="5dp"
+                android:paddingStart="3dp"
+                android:paddingEnd="3dp"
                 />
         </LinearLayout>
         <Button

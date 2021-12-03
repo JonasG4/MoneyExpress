@@ -12,11 +12,11 @@
     <color name="fondo">#F1F1F1</color>
     <color name="principal">#E32239</color>
     <color name="botones">#0275d8</color>
-    <color name="sucess">#2BBB13</color>
+    <color name="success">#2BBB13</color>
     <color name="titulos">#232526</color>
     <color name="input">#B8B8B8</color>
     <color name="Iconos">#8e8e8e</color>
     <color name="Iconoshober">#d8d8d8</color>
     <color name="subtitulos">#8d8d8d</color>
-
+    <color name="fondoBlanco">#FFFFFF</color>
 </resources>
